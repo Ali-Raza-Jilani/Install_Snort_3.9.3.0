@@ -33,10 +33,10 @@ Installation Steps
    cd <your-repo>
 
 2. Make the script executable:
-   chmod +x snort_3.9.3.0.sh
+   chmod +x install_snort.sh
 
 3. Run the script:
-   ./snort_3.9.3.0.sh
+   ./install_snort.sh
 
 --------------------------------------------------------
 What the Script Does
