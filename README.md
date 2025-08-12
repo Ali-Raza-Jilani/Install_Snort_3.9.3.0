@@ -1,6 +1,6 @@
 # Install_Snort_3.9.3.0
 ========================================================
-Snort 3.9.3.0 Installation Script (with All Fixes)
+Snort 3.9.3.0 Installation Script
 ========================================================
 
 This script (snort_3.9.3.0.sh) automates the installation of Snort 3.9.3.0 
