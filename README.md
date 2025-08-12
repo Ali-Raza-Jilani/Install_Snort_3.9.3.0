@@ -29,8 +29,8 @@ Requirements
 Installation Steps
 --------------------------------------------------------
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/Ali-Raza-Jilani/Install_Snort_3.9.3.0.git
+   cd Install_Snort_3.9.3.0
 
 2. Make the script executable:
    chmod +x install_snort.sh
