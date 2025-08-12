@@ -73,6 +73,7 @@ You are free to modify and use it.
 --------------------------------------------------------
 Author
 --------------------------------------------------------
-Your Ali Raza Jilani
+Ali Raza Jilani
+
 GitHub: https://github.com/Ali-Raza-Jilani
 ========================================================
